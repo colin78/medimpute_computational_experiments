@@ -1,5 +1,5 @@
 # Overview
-This is the codebase for the computational experiments for the paper "Imputation of Clinical Covariates in Time Series" by Dimitris Bertsimas, Agni Orfanoudaki, and Colin Pawlowski.  The purpose of this method, MedImpute, is to fill in missing values in healthcare datasets with a longtidinal time series structure.  This code is compatible with Julia version 1.0.5, available for download [here](https://julialang.org/downloads/).
+This is the codebase for the computational experiments for the paper "Imputation of Clinical Covariates in Time Series" by Dimitris Bertsimas, Agni Orfanoudaki, and Colin Pawlowski.  The purpose of this method, MedImpute, is to fill in missing values in healthcare datasets with a longitudinal time series structure.  This code is compatible with Julia version 1.0.5, available for download [here](https://julialang.org/downloads/).
 
 # Datasets
 
