@@ -14,5 +14,5 @@ You must obtain an academic license and precompiled Julia system image in order 
 
 # Documentation
 
-Documentation for the MedImpute package is available [here](https://interpretableai.gitlab.io/DocumentationStaging/MedImpute/master/dev/).  In addition, [here](https://interpretableai.gitlab.io/DocumentationStaging/MedImpute/master/dev/example/) is an example of MedImpute being used to impute missing values in a synthetic EHR dataset.  
+Documentation for the MedImpute package is available [here](https://interpretableai.gitlab.io/DocumentationStaging/MedImpute/master/dev/).  In addition, an example script using MedImpute to impute missing values in a synthetic EHR dataset is available in the folder `synthetic_example/`.  
 
